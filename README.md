@@ -18,4 +18,4 @@ Each timeblock is color coded to indicate whether it is in the past, present, or
 The following animation demonstrates the application functionality:
 
 <!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](.pictures/page1)
+![screenshot.](.pictures/page1.png)
